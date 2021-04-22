@@ -15,3 +15,8 @@ When application run successfully go to your browser and enter http://localhost:
 
 ### Note :
 I have considered at least 1 hour free time as available slot.
+
+
+### Links
+1. https://www.balbooa.com/gridbox-documentation/how-to-get-google-client-id-and-client-secret
+2. https://console.cloud.google.com/apis
